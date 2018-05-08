@@ -1,8 +1,7 @@
 # Spark Shower GIF Booth
+Three cameras, an angle grinder, and you.
 
 ![Sample GIF](https://github.com/jasoneppink/spark-shower-GIF-booth/blob/master/sparkshowergifbooth.gif)
-
-Three cameras, an angle grinder, and you.
 
 ## Hardware Requirements
 * 3 cameras and lenses of similar quality supported by [gphoto2 image capture](http://gphoto.org/proj/libgphoto2/support.php). My setup included a Canon 7D, Canon 5D Mark II, and Canon 5D Mark III. (Any number of cameras can theoretically work as long as you have enough USB ports.)
