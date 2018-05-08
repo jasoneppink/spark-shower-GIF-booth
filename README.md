@@ -1,5 +1,7 @@
 # Spark Shower GIF Booth
 
+![Sample GIF](https://github.com/jasoneppink/spark-shower-GIF-booth/blob/master/sparkshowergifbooth.gif)
+
 Three cameras, an angle grinder, and you.
 
 ## Hardware Requirements
