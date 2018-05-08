@@ -14,7 +14,7 @@ Three cameras, an angle grinder, and you.
 * external monitor w/ keyboard and mouse (for viewing/emailing station)
 
 ## Theory of Operation
-Three cameras are triggered simultaneously by remote shutter release cables wired in parallel. Three simultaneous gphoto2 terminal commands listen on three USB ports for new photos. When photos are detected, they are downloaded to ~/Sites/raw. When filewatch.sh, running in the background, detects new files in this directory, it runs sparkbooth.sh to convert the JPEGs to still GIFs and then assembles them into an animated GIF. The final GIF is saved to ~/Sites/gifs and the JPEGs are moved to ~/Sites/old and a timestampe is appended to their filenames.
+Three cameras are triggered simultaneously by remote shutter release cables wired in parallel. Three simultaneous gphoto2 terminal commands listen on three USB ports for new photos. When photos are detected, they are downloaded to ~/Sites/raw. When filewatch.sh, running in the background, detects new files in this directory, it runs sparkbooth.sh to convert the JPEGs to still GIFs and assemble them into an animated GIF. The final GIF is saved to ~/Sites/gifs and the JPEGs are moved to ~/Sites/old and a timestampe is appended to their filenames.
 
 ## Installation
 1. Install Homebrew (if you don't already have it).
