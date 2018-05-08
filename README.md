@@ -10,6 +10,7 @@ Three cameras, an angle grinder, and you.
 * 3 [USB A to Mini-B cables](https://www.amazon.com/C2G-Cables-27005-Toshiba-Panasonic/dp/B000067RVL/)
 * 1 [USB hub](https://www.amazon.com/Sabrent-4-Port-Individual-Switches-HB-UM43/dp/B00JX1ZS5O/)
 * 3 [remote shutter release cables](https://www.amazon.com/gp/product/B002KDS2BY/) wired in parallel. (Drawing coming soon...)
+* plexiglass shield
 * Mac or Linux computer. (Installation instructions assume a Mac.)
 * external monitor w/ keyboard and mouse (for viewing/emailing station)
 
@@ -31,7 +32,7 @@ Three cameras are triggered simultaneously by remote shutter release cables wire
 
 6. Place filewatch.sh, index.php, and sparkbooth.sh in ~/Sites/. Create directories gifs, old, and raw in ~/Sites/.
 
-7. Set up cameras with same shutter speed, aperture, and ISO. Align cameras so the subject is in the same location in all three frames. (This will take some experimentation once the rest of the booth is setup.)
+7. Set up cameras with same shutter speed, aperture, and ISO. Align cameras so the subject is in the same location in all three frames. (This will take some experimentation once the rest of the booth is setup.) Place plexiglass shield in front of cameras.
 
 8. With all three cameras connected by USB and turned on, find their port numbers:
   ```
