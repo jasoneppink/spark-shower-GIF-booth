@@ -29,7 +29,7 @@ Three cameras are triggered simultaneously by remote shutter release cables wire
 
 5. Fire up your local webserver. ([Differs by operating system.](https://discussions.apple.com/docs/DOC-3083))
 
-6. Place filewatch.sh, index.php, and sparkbooth.sh in ~/Sites/. Create directories gifs, old, and raw in ~/Sites/.
+6. Place filewatch.sh, index.php, and sparkbooth.sh in ~/Sites/. Create directories named "gifs", "old", and "raw" in ~/Sites/.
 
 7. Set up cameras with same shutter speed, aperture, and ISO. Align cameras so the subject is in the same location in all three frames. (This will take some experimentation once the rest of the booth is setup.) Place plexiglass shield in front of cameras.
 
