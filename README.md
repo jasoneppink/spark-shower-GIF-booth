@@ -25,7 +25,9 @@ Three cameras are triggered simultaneously by remote shutter release cables wire
   ```
   brew install imagemagick gifsicle gphoto2 imagemagick mail
   ```
-3. Set up mail/postfix to enable emailing. ([Differs by operating system.](https://bl.ocks.org/larrybotha/6009971))
+3. Install and run [mac-gphoto-enabler](https://github.com/mejedi/mac-gphoto-enabler). (Remember to use the corresponding "disable" script when you're finished running the booth or other applications may have a problem identifying your camera.)
+
+4. Set up mail/postfix to enable emailing. ([Differs by operating system.](https://bl.ocks.org/larrybotha/6009971))
 
 5. Fire up your local webserver. ([Differs by operating system.](https://discussions.apple.com/docs/DOC-3083))
 
