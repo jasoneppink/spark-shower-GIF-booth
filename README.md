@@ -8,7 +8,7 @@ Three cameras, an angle grinder, and you.
 * 3 tripods
 * 3 [USB A to Mini-B cables](https://www.amazon.com/C2G-Cables-27005-Toshiba-Panasonic/dp/B000067RVL/)
 * 1 [USB hub](https://www.amazon.com/Sabrent-4-Port-Individual-Switches-HB-UM43/dp/B00JX1ZS5O/)
-* 3 [remote shutter release cables](https://www.amazon.com/gp/product/B002KDS2BY/) wired in parallel. (Drawing coming soon...)
+* 3 [remote shutter release cables](https://www.amazon.com/gp/product/B002KDS2BY/) wired in parallel.
 * plexiglass shield
 * Mac or Linux computer. (Installation instructions assume a Mac.)
 * external monitor w/ keyboard and mouse (for viewing/emailing station)
