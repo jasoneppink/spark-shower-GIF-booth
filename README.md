@@ -45,8 +45,9 @@ Three cameras are triggered simultaneously by remote shutter release cables wire
   gphoto2 --capture-tethered --port usb:###,### --filename ~/Sites/raw/camera2.jpg --force-overwrite
   gphoto2 --capture-tethered --port usb:###,### --filename ~/Sites/raw/camera3.jpg --force-overwrite
   ```
-10. In another Terminal window, run:
+10. In another Terminal window, change directories to ~/Sites/ and run filewatch.sh:
   ```
+  cd ~/Sites/
   bash filewatch.sh
   ```
 12. In a browser, navigate to localhost/~YOURUSERNAME and place on the external monitor. This is where participants browse and email to themselves. It will have to be manually refreshed to update with new GIFs.
